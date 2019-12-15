@@ -1,0 +1,6 @@
+framework module Pods_priyankaFireBase {
+  umbrella header "Pods-priyankaFireBase-umbrella.h"
+
+  export *
+  module * { export * }
+}
